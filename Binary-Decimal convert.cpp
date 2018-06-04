@@ -1,5 +1,4 @@
 //
-//  main.cpp
 //  Bi-Dec Converter
 //
 //  Created by Benjamin Fajic on 04/10/2016.
